@@ -11,6 +11,8 @@ Repo für Team4 in "Starter Challenges"
 - Projekt-Beschreibung:
   Aufbau eines Kubernetes-Clusters mit mindestens 4 VMs auf einem selbst gewählten Hypervisor (z.B. VMware, Hyper-V, Proxmox oder VirtualBox). Automatisierte Bereitstellung von MariaDB-Datenbanken auf dem Cluster mittels PowerShell-Skript, basierend auf CSV-Input.
   Integration einer Webapplikation (CMS oder Desktop), um Daten effektiv in die MariaDB-Datenbank zu schreiben. Sicherstellung von Hochverfügbarkeit und lokaler Ansteuerbarkeit der Container und Datenbanken.
+  ![Bild](https://github.com/user-attachments/assets/6975a45e-1285-4ef1-8709-0800b1c03465)
+
 
 - Benötigte Hardware:
   Leistungsfähiger Rechner oder Server mit Virtualisierungsunterstützung, mindestens 16 GB RAM, 4 vCPUs und 100 GB Speicherplatz.
